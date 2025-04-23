@@ -4,4 +4,4 @@ metadata:
  name: my-configmap
 data:
   course: "aws-devops"
-  duration: "120-hours"
+  duration: "125-hours"
